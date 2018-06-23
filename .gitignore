@@ -1,0 +1,4 @@
+/build.log*
+/share/gdb/python/gdb/*.pyc
+/share/gdb/python/gdb/*/*.pyc
+
