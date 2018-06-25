@@ -1,0 +1,1 @@
+../../armv6l-unknown-linux-gnueabihf/sysroot/lib/libstdc++.so.6.0.25-gdb.py
